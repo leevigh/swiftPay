@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Peppers",
+        "price": 5000,
+        "category": "vegetable",
+        "imgUrl": "/images/product-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Strawberries",
+        "price": 30000,
+        "category": "fruit",
+        "imgUrl": "/images/product-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Peas",
+        "price": 4000,
+        "category": "vegetable",
+        "imgUrl": "/images/product-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cabbages",
+        "price": 130,
+        "category": "vegetable",
+        "imgUrl": "/images/product-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tomatoes",
+        "price": 200,
+        "category": "vegetable",
+        "imgUrl": "/images/product-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Brocolli",
+        "price": 130,
+        "category": "vegetable",
+        "imgUrl": "/images/product-6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Carrots",
+        "price": 140,
+        "category": "vegetable",
+        "imgUrl": "/images/product-7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Orange Juice",
+        "price": 500,
+        "category": "juice",
+        "imgUrl": "/images/product-8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Onions",
+        "price": 10000,
+        "category": "vegetable",
+        "imgUrl": "/images/product-9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Apples",
+        "price": 20000,
+        "category": "fruit",
+        "imgUrl": "/images/product-10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Garlic",
+        "price": 12000,
+        "category": "vegetable",
+        "imgUrl": "/images/product-11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Chilli",
+        "price": 15000,
+        "category": "vegetable",
+        "imgUrl": "/images/product-12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Lemonade",
+        "price": 15000,
+        "category": "juice",
+        "imgUrl": "/images/product-13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Watermelon Juice",
+        "price": 15000,
+        "category": "juice",
+        "imgUrl": "/images/product-14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Orange & Lemon Mix",
+        "price": 15000,
+        "category": "juice",
+        "imgUrl": "/images/product-15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Bananas",
+        "price": 15000,
+        "category": "fruit",
+        "imgUrl": "/images/product-16.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Oranges",
+        "price": 15000,
+        "category": "fruit",
+        "imgUrl": "/images/product-17.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Green Peppers",
+        "price": 5000,
+        "category": "vegetable",
+        "imgUrl": "/images/product-18.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Lemon Juice",
+        "price": 55000,
+        "category": "juice",
+        "imgUrl": "/images/product-19.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Okra",
+        "price": 15000,
+        "category": "vegetable",
+        "imgUrl": "/images/product-20.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Apple & Cucumber Mix",
+        "price": 65000,
+        "category": "juice",
+        "imgUrl": "/images/product-21.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Pineapples",
+        "price": 25000,
+        "category": "fruit",
+        "imgUrl": "/images/product-22.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Watermelons",
+        "price": 15000,
+        "category": "fruit",
+        "imgUrl": "/images/product-23.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Avocados",
+        "price": 15000,
+        "category": "fruit",
+        "imgUrl": "/images/product-24.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Blackberries",
+        "price": 15000,
+        "category": "fruit",
+        "imgUrl": "/images/product-25.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Grapes",
+        "price": 15000,
+        "category": "fruit",
+        "imgUrl": "/images/product-26.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Cherries",
+        "price": 15000,
+        "category": "fruit",
+        "imgUrl": "/images/product-27.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Blueberries",
+        "price": 15000,
+        "category": "fruit",
+        "imgUrl": "/images/product-28.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Green Pear",
+        "price": 15000,
+        "category": "fruit",
+        "imgUrl": "/images/product-29.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Kiwi Fruit",
+        "price": 15000,
+        "category": "fruit",
+        "imgUrl": "/images/product-30.jpg"
+    }
+]
